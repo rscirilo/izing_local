@@ -15,7 +15,7 @@ sudo apt -y update && apt -y upgrade
 
 Iniciar Instalação
 ```bash
-sudo apt install -y git && git clone https://github.com/rscirilo/izing_local.git && sudo chmod +x ./izing-local/izing && cd ./izing-local && sudo ./izing
+sudo apt install -y git && git clone https://github.com/rscirilo/izing_local.git && sudo chmod +x ./izing_local/izing && cd ./izing_local && sudo ./izing
 ```
 
 - Todas as informações necessárias para realizar a instalação irão ser solicitadas após executar
