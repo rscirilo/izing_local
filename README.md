@@ -4,7 +4,7 @@ Ferramenta CLI interativa para instalar e atualizar o Izing.io
 
 - Ubuntu 20.04
 - Usuario root com permissão SSH<br>
-[COMO ATIVAR USUARIO ROOT](https://github.com/rscirilo/izing-localhost/blob/main/ATIVAR%20ROOT.md)
+[COMO ATIVAR USUARIO ROOT](https://github.com/rscirilo/izing-localhost/ATIVAR_ROOT.md)
 
 ## INSTALAÇÃO EM LOCALHOST
 
