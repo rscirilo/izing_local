@@ -311,7 +311,8 @@ system_nginx_conf() {
 44sudo su - root << EOF
 
 cat > /etc/nginx/conf.d/izing.conf << 'END'
-client_max_body_size 20M;
+underscores_in_headers on;
+client_max_body_size 100M;
 END
 
 EOF
