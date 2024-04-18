@@ -96,6 +96,7 @@ frontend_node_build() {
 
   sudo su - deploy <<EOF
   cd /home/deploy/izing.io/frontend
+  export NODE_OPTIONS=--openssl-legacy-provider
   quasar build -P -m pwa
 
 EOF
